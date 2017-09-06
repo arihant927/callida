@@ -86,7 +86,7 @@ body {
 }
 
 main {
-    background: #000000;
+   background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
     min-height: 100vh;
     display: flex;
     /*overflow: auto;*/
